@@ -1,8 +1,6 @@
 ## Four card feature section
 
-![Mobile design preview for the Four card feature section coding challenge](./design/mobile-design.jpg)
-
-![Design preview for the Four card feature section coding challenge](./design/desktop-deign.jpg)
+![Design preview for the Four card feature section coding challenge](./design/desktop-design.jpg)
 
 
 ## The goal
