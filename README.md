@@ -13,5 +13,5 @@ Only using HTML & CSS
 
 View the optimal layout for the site depending on their device's screen size
 
-_This project was designed by FrontEnd Mentors_
+_This project was designed by FrontEnd Mentor and coded by me, Steve Saunders_
   
