@@ -9,7 +9,9 @@ The goal is to build out this feature section and get it looking as close to the
 
 Only using HTML & CSS
 
-Users should be able to:
+## Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen sizeß
+View the optimal layout for the site depending on their device's screen size
+
+_This project was designed by FrontEnd Mentors_
   
